@@ -3,7 +3,7 @@ package com.hexaware.careercrafter.service;
 import com.hexaware.careercrafter.dto.ApplicationDTO; 
 import com.hexaware.careercrafter.exceptionhandling.ResourceNotFoundException;
 import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Autowired; 
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.client.RestTemplate;
